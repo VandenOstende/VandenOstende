@@ -42,7 +42,7 @@ Stars Received:      180
 ```
 
 ## 📫 How to Reach Me
-- 📧 Email: [vandenostende@example.com](mailto:kevin@vandenostende.net)
+- 📧 Email: [kevin@vandenostende.net](mailto:kevin@vandenostende.net)
 - 📱 Facebook: [VandenOstende](https://www.facebook.com/VandenOstende/)
 
 ## 🌟 Featured Projects
