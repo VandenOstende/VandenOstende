@@ -42,7 +42,6 @@ Below are live, automatically-updating summaries that use your GitHub username (
 - Contribution/activity graph (daily contributions):
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=VandenOstende&theme=github)
 
-These widgets query GitHub for the username VandenOstende and therefore reflect the current state of all public repositories for that account.
 
 ## 📫 How to Reach Me
 - 📧 Email: [kevin@vandenostende.net](mailto:kevin@vandenostende.net)
