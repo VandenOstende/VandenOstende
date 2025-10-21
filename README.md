@@ -24,22 +24,25 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
   - [Xcode](https://developer.apple.com/xcode/)
 
 ## 📈 Activity Overview
-```
-📊 Weekly Development Breakdown
--------------------------
-React Native     ██████████░  50%
-TypeScript      ████░░░░░░░  20%
-JavaScript      ████░░░░░░░  20%
-Native Code     ██░░░░░░░░░  10%
 
-🔥 Contribution Stats
--------------------------
-Repositories:        12
-Pull Requests:       45
-Issues Opened:       28
-Code Reviews:        35
-Stars Received:      180
-```
+Below are live, automatically-updating summaries that use your GitHub username (VandenOstende) and aggregate data across all your public repositories.
+
+- Followers badge:
+![Followers](https://img.shields.io/github/followers/VandenOstende?label=Followers&style=social)
+
+- Live GitHub stats (total stars, commits, PRs, etc. aggregated across repos):
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VandenOstende&show_icons=true&count_private=true&theme=radical)
+
+- Top languages used across all repositories:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VandenOstende&layout=compact&theme=radical)
+
+- Contribution streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VandenOstende&theme=radical)
+
+- Contribution/activity graph (daily contributions):
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=VandenOstende&theme=github)
+
+These widgets query GitHub for the username VandenOstende and therefore reflect the current state of all public repositories for that account.
 
 ## 📫 How to Reach Me
 - 📧 Email: [kevin@vandenostende.net](mailto:kevin@vandenostende.net)
@@ -48,17 +51,17 @@ Stars Received:      180
 ## 🌟 Featured Projects
 
 ### Currently Contributing To: EV-Charging/Routing Application
-I'm contributing to an application focused on helping electric vehicle owners find optimal charging stations and plan their routes efficiently. The project leverages modern mapping solutions and real-time charging station data.
+I'm contributing to an application focused on helping electric vehicle owners find optimal charging stations and plan their routes efficiently. The project leverages modern mapping solutions and real-time routing.
 
 ### Active Contributions
-- [**React Native Maps**](https://github.com/rnmapbox/maps) - An advanced maps implementation for React Native that I'm studying and contributing to as part of the EV-charging/routing application development. This powerful mapping solution provides the foundation for creating efficient routing solutions for electric vehicle owners.
-- [**A Better Route Planner**](https://github.com/abetterrouteplanner/abrp-core) - Contributing to ABRP, a sophisticated EV route planning solution that helps drivers plan their trips with charging stops optimized for their specific vehicle model and real-world conditions.
+- [**React Native Maps**](https://github.com/rnmapbox/maps) - An advanced maps implementation for React Native that I'm studying and contributing to as part of the EV-charging/routing application.
+- [**A Better Route Planner**](https://github.com/abetterrouteplanner/abrp-core) - Contributing to ABRP, a sophisticated EV route planning solution that helps drivers plan their trips with charging stations in mind.
 
 ## 🤝 Let's Collaborate!
 I'm always open to collaborating on exciting projects or brainstorming new ideas. Feel free to reach out or open an issue on any of my repositories!
 
 ---
 
-*Last updated: 2025-04-12 17:33:30 (Belgian Time)*
+*Last updated: 2025-10-21 06:15:11 (UTC)*
 
 Thanks for visiting my profile! Have an awesome day! 🚀 | Bedankt voor je bezoek aan mijn profiel! Fijne dag! 🚀
