@@ -17,15 +17,13 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
 - **State Management:** 
   - [React Hooks](https://react.dev/reference/react)
 - **Mobile:** 
-  - [iOS](https://developer.apple.com/ios/) & [Android](https://developer.android.com/) development
+  - [iOS](https://developer.apple.com/ios/) development
 - **Tools:** 
   - [EXPO](https://expo.dev/)
   - [Visual Studio](https://visualstudio.microsoft.com/)
   - [Xcode](https://developer.apple.com/xcode/)
 
 ## 📈 Activity Overview
-
-Below are live, automatically-updating summaries that use your GitHub username (VandenOstende) and aggregate data across all your public repositories.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VandenOstende&show_icons=true&count_private=true&theme=radical)
 
