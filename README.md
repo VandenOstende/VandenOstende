@@ -27,19 +27,12 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
 
 Below are live, automatically-updating summaries that use your GitHub username (VandenOstende) and aggregate data across all your public repositories.
 
-- Followers badge:
-![Followers](https://img.shields.io/github/followers/VandenOstende?label=Followers&style=social)
-
-- Live GitHub stats (total stars, commits, PRs, etc. aggregated across repos):
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VandenOstende&show_icons=true&count_private=true&theme=radical)
 
-- Top languages used across all repositories:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VandenOstende&layout=compact&theme=radical)
 
-- Contribution streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VandenOstende&theme=radical)
 
-- Contribution/activity graph (daily contributions):
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=VandenOstende&theme=github)
 
 
